@@ -71,7 +71,7 @@ class Blockchain:
         self.main_company = main_company
 
     def create_genesis_block(self):
-        return Block(0, date.datetime.now(), 'Bloco Genesis', '0', "Genesis")
+        return Block(0, date.datetime.now(), 'Genesis Block', '0', "Genesis")
 
     def load_chain(self):
         filename = f'./{self.transaction_type}.bin'
