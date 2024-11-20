@@ -87,7 +87,7 @@ class Blockchain:
 
     def select_validator(self):
         total_stake = sum(validator.stake for validator in self.validators)
-        # Empresas com 0 stakes não podem ser selecionadas
+        
         if total_stake == 0:
             return None
         weights = [validator.stake / total_stake for validator in self.validators]
