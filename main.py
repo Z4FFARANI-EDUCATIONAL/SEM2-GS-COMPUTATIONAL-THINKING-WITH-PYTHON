@@ -1,8 +1,8 @@
-import hashlib # Importa biblioteca hashlib para realizar o hashing dos blocos, garantindo integridade
-import datetime as date # Importa datetime para trabalhar com datas e horarios nos blocos
-import pickle # Importa pickle para serializar e desserializar dados da blockchain
-import os # Importa os para verificacao de arquivos no sistema
-import random # Importa random para selecao de validadores com pesos baseados em stake
+import hashlib
+import datetime as date
+import pickle
+import os
+import random
 
 print('► Login...')
 print()
