@@ -61,7 +61,7 @@ cd SEM2-GS-COMPUTATIONAL-THINKING-WITH-PYTHON
 <br>
 
 # OBSERVAÇÕES
-- Este projeto não tem relação direta com o mercado de carbono oficial, nem com as empresas, ou quaisquer auditorias e certificações que os compõem.
+- Este projeto não tem relação direta com algum mercado de carbono oficial, nem com as empresas, ou quaisquer auditorias e certificações que compõem.
 - Alguns valores dispostos no sistema não condizem com a realidade e apenas servem para fins educativos.
 - Bibliotecas essenciais foram instaladas para criação de Hashes, registro de tempo, manipulação de arquivos binários, acesso raso ao sistema operacional e sorteio de variáveis.
 - É possível encerrar o sistema a qualquer momento facilmente.
