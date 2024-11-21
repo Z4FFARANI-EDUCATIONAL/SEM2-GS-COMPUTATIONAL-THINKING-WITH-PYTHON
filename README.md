@@ -5,7 +5,7 @@
 - **Guilherme Santos Nunes** | 558989
 
 ## LINKS
-- **[VÍDEO EXPLICATIVO]()**
+- **[VÍDEO EXPLICATIVO](https://youtu.be/5BdzgsT5DlY)**
 
 <br>
 
