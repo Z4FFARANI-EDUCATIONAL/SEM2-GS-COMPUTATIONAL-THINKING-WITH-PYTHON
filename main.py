@@ -380,6 +380,7 @@ Econy 🍃 | {business_name} ({business_sector})
                     print()
                     print(100 * '—')
             except FileNotFoundError:
+                print()
                 print(100 * '—')
                 print()
                 print('! Arquivo de saldo nao encontrado. Deve-se realizar uma compra/venda/cambiacao de creditos de carbono, ou obter uma certificacao para cria-lo.')
