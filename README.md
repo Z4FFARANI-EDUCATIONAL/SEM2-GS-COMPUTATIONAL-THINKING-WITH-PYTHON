@@ -1,8 +1,8 @@
 ![banner](./assets/banner.png)
 
 # INTEGRANTES:
-- **Kaique Zaffarani** | 556677
-- **Guilherme Santos Nunes** | 558989
+- **[Guilherme Santos Nunes](https://github.com/sannunez)**
+- **[Kaique Zaffarani](https://github.com/Z4ffarani)**
 
 ## LINKS
 - **[VÍDEO EXPLICATIVO](https://youtu.be/5BdzgsT5DlY)**
