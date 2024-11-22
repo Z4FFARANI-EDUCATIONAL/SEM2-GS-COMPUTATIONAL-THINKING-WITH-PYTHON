@@ -39,7 +39,7 @@ cd SEM2-GS-COMPUTATIONAL-THINKING-WITH-PYTHON
 
 5. Dependendo do tipo de transação, a empresa informa o vendedor ou o comprador de créditos de carbono.
 
-6. Quando uma transação ou certificação é finalizada, baseada no conceito de smart contracts, ela é armazenada como um bloco (objeto de dados) que contém um hash (identificador criptográfico que permite "acorrentar" os blocos) em um arquivo binário dedicado ao tipo de transação, com todas as informações relacionadas. Caso o arquivo binário ainda não exista, cria-se um novo, consolidando um genesis block (primeiro Bloco de uma Blockchain).
+6. Quando uma transação ou certificação é finalizada, baseada no conceito de smart contracts, ela é armazenada como um bloco (objeto de dados) que contém um hash (identificador criptográfico que permite "acorrentar" os blocos) em um arquivo binário dedicado ao tipo de transação, com todas as informações relacionadas. Caso o arquivo binário ainda não exista, cria-se um novo, consolidando um genesis block (primeiro bloco de uma blockchain).
 
 <br>
 
