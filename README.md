@@ -10,7 +10,7 @@
 <br>
 
 # PROJETO
-Com o objetivo de contribuir para a sustentabilidade e a redução das emissões de CO2, a Econy desenvolveu uma plataforma que integra o comércio de créditos de carbono e certificações de auditoria por meio de smart contracts (contratos inteligentes) e blockchains (tecnologia de registro distribuído e descentralizado) que utilizam o algoritmo de consenso PoS (Proof-of-Stake).
+Com o objetivo de contribuir para a sustentabilidade e a redução das emissões de CO2, a empresa fictícia Econy desenvolveu uma plataforma que integra o comércio de créditos de carbono e certificações de auditoria por meio de smart contracts (contratos inteligentes) e blockchains (tecnologia de registro distribuído e descentralizado) que utilizam o algoritmo de consenso PoS (Proof-of-Stake).
 
 Este projeto tem como foco a criação de um sistema que simula transações de créditos de carbono, onde as empresas podem registrar suas ações e obter validações de suas práticas ambientais. As transações, registradas em blocos criptografados, podem ser validadas por participantes da rede, ganhando stakes (poder de participação para validações de Blocos) e garantindo a segurança e o rastreamento de cada movimentação. Além disso, a plataforma oferece uma interface interativa para empresas monitorarem suas ações e manterem conformidade com o mercado de carbono.
 
